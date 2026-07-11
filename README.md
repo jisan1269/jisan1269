@@ -73,11 +73,11 @@ developer:
   <a href="mailto:mehfujurrahmanjisan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/jisan1269"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <!-- চাইলে নিচের লাইনগুলো যোগ করো তোমার নিজের লিংক দিয়ে -->
-  <a href=["YOUR_LINKEDIN_URL"](https://www.linkedin.com/in/mehfujur-rahman-jisan-b710a03b0?utm_source=share_via&utm_content=profile&utm_medium=member_android)><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-   <a href=["YOUR_FACEBOOK_URL"](https://www.facebook.com/share/19GJnToYi1/)><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+  <a href="["YOUR_LINKEDIN_URL"](https://www.linkedin.com/in/mehfujur-rahman-jisan-b710a03b0?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+   <a href="["YOUR_FACEBOOK_URL"](https://www.facebook.com/share/19GJnToYi1/)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
 </p>
 
-<a href=["YOUR_INSTAGRAM_URL"](https://www.instagram.com/zeeshan_mehfuz?igsh=NGxydTFqNXN3NjZx)><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="["YOUR_INSTAGRAM_URL"](https://www.instagram.com/zeeshan_mehfuz?igsh=NGxydTFqNXN3NjZx)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ---
 
