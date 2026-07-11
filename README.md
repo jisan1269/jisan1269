@@ -83,12 +83,12 @@ developer = {
 
 ## 🎯 Currently
 
-- 🔭 **Working on:** Strengthening my core programming fundamentals
-- 🌱 **Learning:** Flutter & Mobile App Development
-- 👯 **Looking to:** Collaborate on beginner-friendly and mobile app projects
-- 💬 **Ask me about:** C/C++, Java, MySQL, Dart
-- 📫 **Reach me:** mehfujurrahmanjisan@gmail.com
-- ⚡ **Fun fact:** I'd rather debug for an hour than guess for a minute!
+-  **Working on:** Strengthening my core programming fundamentals
+-  **Learning:** Flutter & Mobile App Development
+-  **Looking to:** Collaborate on beginner-friendly and mobile app projects
+-  **Ask me about:** C/C++, Java, MySQL, Dart
+-  **Reach me:** mehfujurrahmanjisan@gmail.com
+-  **Fun fact:** I'd rather debug for an hour than guess for a minute!
 
 ---
 
