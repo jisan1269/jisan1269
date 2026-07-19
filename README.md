@@ -41,7 +41,7 @@ developer = {
 
 ## 🛠️ Tech Stack
 
-![Streak](https://streak-stats.demolab.com?user=jisan269&theme=tokyonight)
+<div align="center">
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -119,12 +119,16 @@ developer = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jisan1269&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan1269&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jisan1269&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jisan1269&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan1269&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
