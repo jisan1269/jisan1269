@@ -118,7 +118,7 @@ developer = {
 ---
 
 ## 📊 GitHub Stats
-
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jisan1269&theme=tokyonight&hide_border=true"/>
 
 ---
